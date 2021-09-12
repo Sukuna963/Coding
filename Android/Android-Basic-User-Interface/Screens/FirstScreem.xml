@@ -1,0 +1,38 @@
+<!--https://labs.udacity.com/android-visualizer/-->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+   <ImageView
+       android:src="@drawable/ocean"
+       android:scaleType="centerCrop"
+       android:layout_width="0dp"
+       android:layout_height="match_parent"
+       android:layout_weight="1" />
+    
+    <TextView
+        android:text="You're invited!"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#009688" 
+        android:textColor="@android:color/white"
+        android:textSize="45sp" 
+        android:paddingLeft="16dp"
+        android:paddingBottom="8dp"
+        android:paddingTop="16dp"/>
+    
+    <TextView
+        android:text="Bonfire at the beach"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#009688"
+        android:textColor="@android:color/white"
+        android:textSize="26sp"
+        android:paddingTop="8dp"
+        android:paddingLeft="16dp"
+        android:paddingBottom="16dp"/>
+    
+</LinearLayout>
