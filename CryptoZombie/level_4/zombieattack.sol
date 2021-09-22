@@ -3,7 +3,7 @@ pragma solidity ^0.4.19;
 import "./zombiehelper.sol";
 
 contract ZombieBattle is ZombieHelper {
-  uint randNonce = 0;
+  uint randNonce = 0; //Vulneravel a ataque
   uint attackVictoryProbability = 70;
 
   function randMod(uint _modulus) internal returns(uint) {
