@@ -16,3 +16,6 @@ Projetos e códigos dos cursos feitos (Com e Sem Certificados)
 |[Level-2](https://share.cryptozombies.io/pt/lesson/2/share/leonardo?id=Y3p8MTMxMzA1)|
 |[Level-3](https://share.cryptozombies.io/pt/lesson/3/share/leonardo?id=Y3p8MTMxMzA1)|
 |[Level-4](https://share.cryptozombies.io/pt/lesson/4/share/leonardo?id=WyJjenwxMzEzMDUiLDEsMTRd)|
+
+*Node.js*
+>[Curso_rapido](https://www.youtube.com/watch?v=XN705pQeoyU&list=PLx4x_zx8csUjFC41ev2qX5dnr-0ThpoXE)
