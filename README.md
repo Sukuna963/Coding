@@ -26,3 +26,10 @@
 ## Tricks
 ### CSS
 * [CSS 3D](https://vinceumo.github.io/devNotes/CSS/css-3d-scrolling-on-the-z-axis/)
+
+# OpenSource
+##Learning
+* [OpenSource](https://opensource.com/)
+* [Google OpenSource](https://opensource.google/projects/explore/featured)
+* [Facebook OpenSource](https://opensource.fb.com/projects)
+* [Microsoft OpenSource](https://opensource.microsoft.com/projects)
