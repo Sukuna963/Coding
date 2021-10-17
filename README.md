@@ -17,6 +17,7 @@
 * [RocketSeat](https://app.rocketseat.com.br/dashboard)
 * [MongoDB University](https://university.mongodb.com/courses/catalog)
 * [auth0](https://auth0.com/resources)
+* [GoogleCodeLabs](https://codelabs.developers.google.com/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
