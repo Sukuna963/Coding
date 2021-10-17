@@ -10,6 +10,13 @@
 ## Learning
 * [zenn.dev](https://zenn.dev/)
 * [Dev.to](https://dev.to/)
+* [DevDoc](https://devdocs.io/)
+* [freecodecamp](https://www.freecodecamp.org/)
+* [Digital Innovation One](https://digitalinnovation.one/sign-in)
+* [jetbrains Academy](https://www.jetbrains.com/academy/)
+* [RocketSeat](https://app.rocketseat.com.br/dashboard)
+* [MongoDB University](https://university.mongodb.com/courses/catalog)
+* [auth0](https://auth0.com/resources)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
