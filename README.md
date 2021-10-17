@@ -18,6 +18,7 @@
 * [MongoDB University](https://university.mongodb.com/courses/catalog)
 * [auth0](https://auth0.com/resources)
 * [GoogleCodeLabs](https://codelabs.developers.google.com/)
+* [SonicPi Tutorial](https://sonic-pi.net/tutorial.html#section-1)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
@@ -28,7 +29,6 @@
 * [CSS 3D](https://vinceumo.github.io/devNotes/CSS/css-3d-scrolling-on-the-z-axis/)
 
 # OpenSource
-##Learning
 * [OpenSource](https://opensource.com/)
 * [Google OpenSource](https://opensource.google/projects/explore/featured)
 * [Facebook OpenSource](https://opensource.fb.com/projects)
