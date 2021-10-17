@@ -12,7 +12,7 @@
 * [Dev.to](https://dev.to/)
 
 ## Tools
-* [rapidapi](https://rapidapi.com/hub)+
+* [rapidapi](https://rapidapi.com/hub)
 * [replit](https://replit.com/)
 
 ## Tricks
