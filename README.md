@@ -19,6 +19,7 @@
 * [auth0](https://auth0.com/resources)
 * [GoogleCodeLabs](https://codelabs.developers.google.com/)
 * [SonicPi Tutorial](https://sonic-pi.net/tutorial.html#section-1)
+* [Fireship](https://fireship.io/lessons/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
