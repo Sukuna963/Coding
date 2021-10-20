@@ -35,7 +35,7 @@
 * [Facebook OpenSource](https://opensource.fb.com/projects)
 * [Microsoft OpenSource](https://opensource.microsoft.com/projects)
 
-# Frameowrks and Tools
+# Frameowrks and Plugins
 *Python*
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui/wiki)
 
@@ -55,3 +55,6 @@
 
 *PHP*
 * [Laravel](https://laravel.com/)
+
+*WebAssembly*
+* [Opensilver](https://opensilver.net/)
