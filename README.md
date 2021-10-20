@@ -34,3 +34,24 @@
 * [Google OpenSource](https://opensource.google/projects/explore/featured)
 * [Facebook OpenSource](https://opensource.fb.com/projects)
 * [Microsoft OpenSource](https://opensource.microsoft.com/projects)
+
+# Frameowrks and Tools
+*Python*
+* [DearPyGui](https://github.com/hoffstadt/DearPyGui/wiki)
+
+*Java*
+* [Spring](https://spring.io/)
+* [Inverno](https://inverno.io/)
+
+*CSS*
+* [BootStrap](https://getbootstrap.com/)
+* [Materialize](https://materializecss.com/)
+
+*Javascript*
+* [Ajax](https://www.w3schools.com/js/js_ajax_intro.asp)
+* [JQuery](https://jquery.com/)
+* [Pixijs](https://pixijs.com/)
+* [Threejs](https://threejs.org/)
+
+*PHP*
+* [Laravel](https://laravel.com/)
