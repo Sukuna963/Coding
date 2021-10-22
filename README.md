@@ -56,6 +56,7 @@
 * [Threejs](https://threejs.org/)
 * [webpack](https://webpack.js.org/)
 * [Babel](https://babeljs.io/)
+* [P5js](https://p5js.org/)
 
 *PHP*
 * [Laravel](https://laravel.com/)
