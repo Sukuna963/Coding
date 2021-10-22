@@ -38,6 +38,8 @@
 # Frameowrks and Plugins
 *Python*
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui/wiki)
+* [Django](https://www.djangoproject.com/)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 
 *Java*
 * [Spring](https://spring.io/)
@@ -52,6 +54,8 @@
 * [JQuery](https://jquery.com/)
 * [Pixijs](https://pixijs.com/)
 * [Threejs](https://threejs.org/)
+* [webpack](https://webpack.js.org/)
+* [Babel](https://babeljs.io/)
 
 *PHP*
 * [Laravel](https://laravel.com/)
