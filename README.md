@@ -20,6 +20,7 @@
 * [GoogleCodeLabs](https://codelabs.developers.google.com/)
 * [SonicPi Tutorial](https://sonic-pi.net/tutorial.html#section-1)
 * [Fireship](https://fireship.io/lessons/)
+* [Laracasts](https://laracasts.com/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
