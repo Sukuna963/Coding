@@ -21,6 +21,7 @@
 * [SonicPi Tutorial](https://sonic-pi.net/tutorial.html#section-1)
 * [Fireship](https://fireship.io/lessons/)
 * [Laracasts](https://laracasts.com/)
+* [SymfonyCasts](https://symfonycasts.com/courses#tracks)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
