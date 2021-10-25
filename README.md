@@ -41,6 +41,7 @@
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui/wiki)
 * [Django](https://www.djangoproject.com/)
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+* [Kivy](https://kivy.org/#home)
 
 *Java*
 * [Spring](https://spring.io/)
@@ -65,3 +66,6 @@
 *WebAssembly*
 * [Opensilver](https://opensilver.net/)
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+
+*API*
+* [graphql](https://graphql.org/)
