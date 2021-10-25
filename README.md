@@ -64,3 +64,4 @@
 
 *WebAssembly*
 * [Opensilver](https://opensilver.net/)
+* [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
