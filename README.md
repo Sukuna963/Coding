@@ -26,6 +26,8 @@
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
 * [replit](https://replit.com/)
+* [Caniuse](https://caniuse.com/?search=date)
+* [jsfiddle](https://jsfiddle.net/)
 
 ## Tricks
 ### CSS
