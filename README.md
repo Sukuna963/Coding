@@ -38,6 +38,7 @@
 * [Google OpenSource](https://opensource.google/projects/explore/featured)
 * [Facebook OpenSource](https://opensource.fb.com/projects)
 * [Microsoft OpenSource](https://opensource.microsoft.com/projects)
+* [OpenLDAP](https://www.openldap.org/project/)
 
 # Frameowrks and Plugins
 *Python*
