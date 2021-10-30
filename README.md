@@ -73,3 +73,6 @@
 
 *API*
 * [graphql](https://graphql.org/)
+
+*PostgreSQL*
+* [postgrest](https://postgrest.org/en/v8.0/)
