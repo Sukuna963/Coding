@@ -28,6 +28,7 @@
 * [replit](https://replit.com/)
 * [Caniuse](https://caniuse.com/?search=date)
 * [jsfiddle](https://jsfiddle.net/)
+* [tizen](https://developer.tizen.org/development/tizen-studio/)
 
 ## Tricks
 ### CSS
