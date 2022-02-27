@@ -23,6 +23,7 @@
 * [Laracasts](https://laracasts.com/)
 * [SymfonyCasts](https://symfonycasts.com/courses#tracks)
 * [ASMTutor](https://asmtutor.com/)
+* [WebAssembly](https://rustwasm.github.io/docs/book/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
