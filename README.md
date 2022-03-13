@@ -28,6 +28,7 @@
 * [Django for Everybody](https://www.dj4e.com/lessons)
 * [Json](https://www.json.org/json-en.html)
 * [C# Corner](https://www.c-sharpcorner.com/learn/)
+* [Learning Delphi](https://learndelphi.org/pt/#bootcamp)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
