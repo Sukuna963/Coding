@@ -23,6 +23,7 @@
 * [ASMTutor](https://asmtutor.com/)
 * [WebAssembly](https://rustwasm.github.io/docs/book/)
 * [MDN](https://developer.mozilla.org/de/)
+* [Edge DB](https://www.edgedb.com/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
