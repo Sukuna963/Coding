@@ -93,3 +93,7 @@
 
 *PostgreSQL*
 * [postgrest](https://postgrest.org/en/v8.0/)
+
+*RPC*
+* [grpc](https://grpc.io/)
+* [soket IO](https://socket.io/)
