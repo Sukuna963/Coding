@@ -74,6 +74,7 @@
 * [webpack](https://webpack.js.org/)
 * [Babel](https://babeljs.io/)
 * [P5js](https://p5js.org/)
+* [TypeORM](https://typeorm.io/#/)
 
 *PHP*
 * [Laravel](https://laravel.com/)
