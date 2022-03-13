@@ -59,6 +59,7 @@
 * [Django](https://www.djangoproject.com/)
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [Kivy](https://kivy.org/#home)
+* [pysimplegui](https://pysimplegui.readthedocs.io/en/latest/)
 
 *Java*
 * [Spring](https://spring.io/)
