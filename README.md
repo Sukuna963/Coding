@@ -29,6 +29,9 @@
 * [Json](https://www.json.org/json-en.html)
 * [C# Corner](https://www.c-sharpcorner.com/learn/)
 * [Learning Delphi](https://learndelphi.org/pt/#bootcamp)
+* [Supabase](https://supabase.com/)
+* [Firebase](https://firebase.google.com/?gclsrc=aw.ds&gclid=Cj0KCQiAybaRBhDtARIsAIEG3kmT7L2r9q4rl8ecLX2eUt0lvYsJZE1WWI_rnAo-7nMvDglN4jPJ_fMaAicEEALw_wcB)
+* [Neo4j](https://neo4j.com/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
