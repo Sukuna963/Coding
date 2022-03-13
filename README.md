@@ -27,6 +27,7 @@
 * [Web Applications for Everybody](https://www.wa4e.com/lessons)
 * [Django for Everybody](https://www.dj4e.com/lessons)
 * [Json](https://www.json.org/json-en.html)
+* [C# Corner](https://www.c-sharpcorner.com/learn/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
