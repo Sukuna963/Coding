@@ -34,6 +34,8 @@
 * [Neo4j](https://neo4j.com/)
 * [LogRocket](https://blog.logrocket.com/)
 * [Developer](https://www.developer.com/)
+* [Apollo Graphql](https://www.apollographql.com/)
+* [Hasura](https://hasura.io/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
