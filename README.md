@@ -24,6 +24,8 @@
 * [WebAssembly](https://rustwasm.github.io/docs/book/)
 * [MDN](https://developer.mozilla.org/de/)
 * [Edge DB](https://www.edgedb.com/)
+* [Web Applications for Everybody](https://www.wa4e.com/lessons)
+* [Django for Everybody](https://www.dj4e.com/lessons)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
