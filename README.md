@@ -1,34 +1,16 @@
 # Coding
 
 ## Learning
-* [zenn.dev](https://zenn.dev/)
-* [Dev.to](https://dev.to/)
-* [DevDoc](https://devdocs.io/)
 * [freecodecamp](https://www.freecodecamp.org/)
 * [jetbrains Academy](https://www.jetbrains.com/academy/)
-* [MongoDB University](https://university.mongodb.com/courses/catalog)
 * [auth0](https://auth0.com/resources)
 * [GoogleCodeLabs](https://codelabs.developers.google.com/)
-* [SonicPi Tutorial](https://sonic-pi.net/tutorial.html#section-1)
-* [Fireship](https://fireship.io/lessons/)
-* [Laracasts](https://laracasts.com/)
-* [SymfonyCasts](https://symfonycasts.com/courses#tracks)
-* [ASMTutor](https://asmtutor.com/)
-* [WebAssembly](https://rustwasm.github.io/docs/book/)
 * [MDN](https://developer.mozilla.org/de/)
-* [Edge DB](https://www.edgedb.com/)
 * [Web Applications for Everybody](https://www.wa4e.com/lessons)
-* [Django for Everybody](https://www.dj4e.com/lessons)
-* [Json](https://www.json.org/json-en.html)
-* [C# Corner](https://www.c-sharpcorner.com/learn/)
-* [Learning Delphi](https://learndelphi.org/pt/#bootcamp)
-* [Supabase](https://supabase.com/)
-* [Firebase](https://firebase.google.com/?gclsrc=aw.ds&gclid=Cj0KCQiAybaRBhDtARIsAIEG3kmT7L2r9q4rl8ecLX2eUt0lvYsJZE1WWI_rnAo-7nMvDglN4jPJ_fMaAicEEALw_wcB)
-* [Neo4j](https://neo4j.com/)
-* [LogRocket](https://blog.logrocket.com/)
 * [Developer](https://www.developer.com/)
-* [Apollo Graphql](https://www.apollographql.com/)
-* [Hasura](https://hasura.io/)
+* [Pirple](https://www.pirple.com/)
+* [RedHat Developer](https://developers.redhat.com/)
+* [Oracle University](https://education.oracle.com/pt_BR/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
@@ -37,10 +19,6 @@
 * [jsfiddle](https://jsfiddle.net/)
 * [tizen](https://developer.tizen.org/development/tizen-studio/)
 
-## Tricks
-### CSS
-* [CSS 3D](https://vinceumo.github.io/devNotes/CSS/css-3d-scrolling-on-the-z-axis/)
-
 # OpenSource
 * [OpenSource](https://opensource.com/)
 * [Google OpenSource](https://opensource.google/projects/explore/featured)
@@ -48,13 +26,29 @@
 * [Microsoft OpenSource](https://opensource.microsoft.com/projects)
 * [OpenLDAP](https://www.openldap.org/project/)
 
-# Frameowrks and Plugins
+# Programming
+*Swift*
+* [IOS Academy](https://courses.iosacademy.io/)
+* [Vapor](https://vapor.codes/)
+* [Swift Wasm](https://swiftwasm.org/)
+* [SwiftUI](https://developer.apple.com/tutorials/swiftui/)
+* [Swift Doc](https://www.swift.org/server/)
+* [Kitura](https://www.kitura.dev/)
+* [ReactiveX](https://reactivex.io/)
+
+*C#*
+* [C# Corner](https://www.c-sharpcorner.com/learn/)
+
+*Delphi*
+* [Learning Delphi](https://learndelphi.org/pt/#bootcamp)
+
 *Python*
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui/wiki)
 * [Django](https://www.djangoproject.com/)
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 * [Kivy](https://kivy.org/#home)
 * [pysimplegui](https://pysimplegui.readthedocs.io/en/latest/)
+* [Django for Everybody](https://www.dj4e.com/lessons)
 
 *Java*
 * [Spring](https://spring.io/)
@@ -63,6 +57,7 @@
 *CSS*
 * [BootStrap](https://getbootstrap.com/)
 * [Materialize](https://materializecss.com/)
+* [Tailwindcss](https://tailwindcss.com/)
 
 *Javascript*
 * [Ajax](https://www.w3schools.com/js/js_ajax_intro.asp)
@@ -76,19 +71,34 @@
 
 *PHP*
 * [Laravel](https://laravel.com/)
+* [Laracasts](https://laracasts.com/)
+* [SymfonyCasts](https://symfonycasts.com/courses#tracks)
 
 *WebAssembly*
 * [Opensilver](https://opensilver.net/)
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+* [ASMTutor](https://asmtutor.com/)
+* [WebAssembly](https://rustwasm.github.io/docs/book/)
 
 *API*
 * [graphql](https://graphql.org/)
+* [Apollo Graphql](https://www.apollographql.com/)
+* [Hasura](https://hasura.io/)
+* [Json](https://www.json.org/json-en.html)
 
-*PostgreSQL*
+*Databases*
 * [postgrest](https://postgrest.org/en/v8.0/)
+* [Supabase](https://supabase.com/)
+* [Firebase](https://firebase.google.com/?gclsrc=aw.ds&gclid=Cj0KCQiAybaRBhDtARIsAIEG3kmT7L2r9q4rl8ecLX2eUt0lvYsJZE1WWI_rnAo-7nMvDglN4jPJ_fMaAicEEALw_wcB)
+* [Neo4j](https://neo4j.com/)
+* [MongoDB University](https://university.mongodb.com/courses/catalog)
+* [Edge DB](https://www.edgedb.com/)
 
 *RPC*
 * [grpc](https://grpc.io/)
 * [soket IO](https://socket.io/)
 * [trpc](https://trpc.io/)
 * [WebRTC](https://webrtc.org/)
+
+*SonicPi*
+* [SonicPi Tutorial](https://sonic-pi.net/tutorial.html#section-1)
