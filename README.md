@@ -68,6 +68,7 @@
 * [Babel](https://babeljs.io/)
 * [P5js](https://p5js.org/)
 * [TypeORM](https://typeorm.io/#/)
+* [FullStack React](https://fullstackopen.com/en/#course-contents)
 
 *PHP*
 * [Laravel](https://laravel.com/)
