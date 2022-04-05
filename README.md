@@ -84,9 +84,15 @@
 
 *API*
 * [graphql](https://graphql.org/)
-** [Apollo Graphql](https://www.apollographql.com/)
-** [Hasura](https://hasura.io/)
+* [Tutorial Graphql](https://www.howtographql.com/)
+* [Apollo Graphql](https://www.apollographql.com/)
+* [Hasura](https://hasura.io/)
+* [HasuraConf](https://hasura.io/events/hasura-con-2022/)
+* [PostGraphile](https://www.graphile.org/postgraphile/)
+* [Novvum](https://novvum.io/)
+* [Prisma](https://www.prisma.io/)
 * [Json](https://www.json.org/json-en.html)
+* [Falcor](https://netflix.github.io/falcor/)
 
 *Databases*
 * [postgrest](https://postgrest.org/en/v8.0/)
