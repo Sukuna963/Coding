@@ -84,8 +84,8 @@
 
 *API*
 * [graphql](https://graphql.org/)
-* [Apollo Graphql](https://www.apollographql.com/)
-* [Hasura](https://hasura.io/)
+** [Apollo Graphql](https://www.apollographql.com/)
+** [Hasura](https://hasura.io/)
 * [Json](https://www.json.org/json-en.html)
 
 *Databases*
