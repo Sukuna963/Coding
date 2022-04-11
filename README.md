@@ -110,3 +110,7 @@
 
 *SonicPi*
 * [SonicPi Tutorial](https://sonic-pi.net/tutorial.html#section-1)
+
+*Rust*
+* [CIS 198: Rust Programming](http://cis198-2016s.github.io/schedule/)
+* [Rust Doc](https://www.rust-lang.org/learn)
