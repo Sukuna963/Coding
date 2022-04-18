@@ -25,6 +25,7 @@
 * [Facebook OpenSource](https://opensource.fb.com/projects)
 * [Microsoft OpenSource](https://opensource.microsoft.com/projects)
 * [OpenLDAP](https://www.openldap.org/project/)
+* [Meta Projects](https://opensource.fb.com/projects)
 
 # Programming
 *Swift*
