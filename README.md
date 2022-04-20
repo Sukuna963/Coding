@@ -5,6 +5,7 @@
 * [jetbrains Academy](https://www.jetbrains.com/academy/)
 * [auth0](https://auth0.com/resources)
 * [GoogleCodeLabs](https://codelabs.developers.google.com/)
+* [Google Pathways](https://developers.google.com/learn/pathways)
 * [MDN](https://developer.mozilla.org/de/)
 * [Web Applications for Everybody](https://www.wa4e.com/lessons)
 * [Developer](https://www.developer.com/)
