@@ -86,6 +86,7 @@
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 * [ASMTutor](https://asmtutor.com/)
 * [WebAssembly](https://rustwasm.github.io/docs/book/)
+* [wasmer](https://wasmer.io/)
 
 *API*
 * [graphql](https://graphql.org/)
