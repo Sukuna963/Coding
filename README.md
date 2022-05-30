@@ -21,6 +21,7 @@
 * [Caniuse](https://caniuse.com/?search=date)
 * [jsfiddle](https://jsfiddle.net/)
 * [tizen](https://developer.tizen.org/development/tizen-studio/)
+* [auto animate](https://auto-animate.formkit.com/)
 
 # OpenSource
 * [OpenSource](https://opensource.com/)
