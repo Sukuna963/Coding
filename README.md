@@ -2,6 +2,7 @@
 
 ## Learning
 * [freecodecamp](https://www.freecodecamp.org/)
+* [freecodecamp news](https://www.freecodecamp.org/news)
 * [jetbrains Academy](https://www.jetbrains.com/academy/)
 * [auth0](https://auth0.com/resources)
 * [GoogleCodeLabs](https://codelabs.developers.google.com/)
