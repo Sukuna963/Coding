@@ -13,6 +13,7 @@
 * [Pirple](https://www.pirple.com/)
 * [RedHat Developer](https://developers.redhat.com/)
 * [Oracle University](https://education.oracle.com/pt_BR/)
+* [Log Rocket](https://blog.logrocket.com/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
