@@ -2,6 +2,7 @@
 
 ## Learning
 * [freecodecamp](https://www.freecodecamp.org/)
+* [freecodecamp news](https://www.freecodecamp.org/news)
 * [jetbrains Academy](https://www.jetbrains.com/academy/)
 * [auth0](https://auth0.com/resources)
 * [GoogleCodeLabs](https://codelabs.developers.google.com/)
@@ -12,6 +13,8 @@
 * [Pirple](https://www.pirple.com/)
 * [RedHat Developer](https://developers.redhat.com/)
 * [Oracle University](https://education.oracle.com/pt_BR/)
+* [Log Rocket](https://blog.logrocket.com/)
+* [Chrome Developer](https://developer.chrome.com/docs/)
 
 ## Tools
 * [rapidapi](https://rapidapi.com/hub)
@@ -19,6 +22,7 @@
 * [Caniuse](https://caniuse.com/?search=date)
 * [jsfiddle](https://jsfiddle.net/)
 * [tizen](https://developer.tizen.org/development/tizen-studio/)
+* [auto animate](https://auto-animate.formkit.com/)
 
 # OpenSource
 * [OpenSource](https://opensource.com/)
@@ -83,6 +87,7 @@
 * [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 * [ASMTutor](https://asmtutor.com/)
 * [WebAssembly](https://rustwasm.github.io/docs/book/)
+* [wasmer](https://wasmer.io/)
 
 *API*
 * [graphql](https://graphql.org/)
